@@ -1,0 +1,1 @@
+"""Papers MCP Server."""
