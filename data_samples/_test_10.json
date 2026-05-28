@@ -1,0 +1,76 @@
+{
+  "agent": "agents/papers/papers_reader",
+  "global_criteria": [],
+  "evals": [
+    {
+      "input": "According to paper DOI: 10.1101/2025.11.13.688318, What is the overall free energy barrier (in kcal/mol) reported for OsASN-C coordination at the H2B H79 imidazole nitrogen atom at the HIS site in the nucleosome crevice, as determined by multilevel QM/MM thermodynamic integration?",
+      "criteria": [
+        "The solution is: ~20 kcal/mol"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.11.13.688318, What overall association constant (in M\u207b\u00b9) was measured for RAPTA-C binding to the nucleosome core particle (NCP) from mass spectrometry-based experiments, as cited in the manuscript?",
+      "criteria": [
+        "The solution is: 2.3\u00d710\u2075 M\u207b\u00b9"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.10.11.681776, What is the Spearman's rank correlation coefficient (rho) between the Barbatula oreas eDNA concentration in water samples (quantified using the qMiFish metabarcoding approach) and the final prepared library concentration for full-length plasmid sequencing?",
+      "criteria": [
+        "The solution is: 0.92"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.10.11.681776, According to the GLM analysis of sequencing success, what eDNA concentration (in copies/\u00b5L) is required to achieve a 50% probability of successful long-fragment (~1,000 bp) sequencing of Barbatula oreas?",
+      "criteria": [
+        "The solution is: 50.6"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.10.08.681235, How many consensus overexpressed genes were identified for the Jurkat and MOLT-4 T-ALL cell lines respectively, after filtering genes upregulated in at least 8 of the 12 control comparisons?",
+      "criteria": [
+        "The solution is: 1418 for Jurkat and 1338 for MOLT-4"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.10.08.681235, How many Betti 1 cycles does the complete Jurkat malignant network comprise, and by how many cycles does this exceed the MOLT-4 network?",
+      "criteria": [
+        "The solution is: The Jurkat network comprises 387 cycles, which is 168 more than the MOLT-4 network (219 cycles)."
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.08.669290, How many differential equations and control parameters does the three-gene Bmal1-Reverb-Cry circadian clock model comprise?",
+      "criteria": [
+        "The solution is: 6 differential equations and 26 control parameters"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.08.669290, What is the value of the Hill coefficient h_rb associated with the regulation of Reverb transcription by BMAL1 in the three-gene circadian clock model?",
+      "criteria": [
+        "The solution is: 31.5"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.21.634044, In the UK Biobank brain aging study using multimodal IDPs, what were the correlation between true and predicted age (r) and the mean absolute delta (in years) for the all-in-one brain age model?",
+      "criteria": [
+        "The solution is: r = 0.91, mean absolute delta = 2.65y"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.21.634044, Among the 16 brain aging modes derived from UK Biobank imaging data, which mode number showed the highest fractional delta-expansion (Ef), and what was its Ef value?",
+      "criteria": [
+        "The solution is: Mode 9, Ef = 0.68"
+      ],
+      "category": "main_text"
+    }
+  ]
+}

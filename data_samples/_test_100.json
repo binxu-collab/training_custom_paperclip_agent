@@ -1,0 +1,704 @@
+{
+  "evals": [
+    {
+      "input": "According to paper DOI: 10.1101/2025.02.13.638174, According to the manuscript, what percentage of BMPs found within the endocytic pathway are located in the lysosome (as opposed to the late endosome)?",
+      "criteria": [
+        "The solution is: 95%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.07.651711, What was the Wilks' Lambda statistic reported for the effect of dietary treatments on enzymatic activity in Cornitermes cumulans?",
+      "criteria": [
+        "The solution is: 3.14"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.12.21.629919, What p-value was reported for the comparison of mean intraocular pressure between Mdivi-1-treated and vehicle-treated glaucomatous mice, and what was the mean intraocular pressure (in mm Hg) in each group?",
+      "criteria": [
+        "The solution is: Mdivi-1: 20.6±1.1 mm Hg, vehicle: 20.1±0.9 mm Hg, p=0.92"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.15.643437, In the light sheet fluorescence microscopy experiment comparing Claudin 1-sufficient and Claudin 1-deficient DC1 positioning relative to mTEC clusters, what percentage of wild-type (Cldn1+/+) DC1s were located within 5 μm of mTEC clusters, and by how many times was this higher than the percentage for Claudin 1-deficient (Cldn1-/-) DC1s?",
+      "criteria": [
+        "The solution is: 28% of WT DC1s were within 5 μm, which was 2.6 times higher than Claudin 1-deficient DC1s (11%)"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.07.01.662591, When comparing the likelihood of being in a sexually receptive estrous state between single-housed (SH) resident females and group-housed (GH) stimulus females across either the day before or the day of behavioral testing, what z-statistic and p-value were reported?",
+      "criteria": [
+        "The solution is: (2.72, 0.007)"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.10.30.621029, By approximately what factor could superstring computation time be reduced on the human genome if the computation starts from unitigs instead of individual k-mers?",
+      "criteria": [
+        "The solution is: approximately 5×"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.11.632529, What percentage of the genes positively correlating with CEBPZ and NOC2L expression (upon their reduction in tumor cells) are associated with R-loop formation or metabolism, excluding CEBPZ itself?",
+      "criteria": [
+        "The solution is: 22%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.11.17.688877, What was the Spearman's correlation coefficient (ρ) and corresponding p-value for the association between P. falciparum sporozoites expelled during the first interrupted feeding event and the second interrupted feeding event in Anopheles stephensi mosquitoes?",
+      "criteria": [
+        "The solution is: ρ= 0.56, p= 0.0002"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2023.08.29.555373, What percentage of blood-brain barrier tight junctions in the ipsilateral cortex of wild-type (Rab7a fl/fl) mice showed structural abnormalities at 48 hours after transient middle cerebral artery occlusion (t-MCAO), as measured by transmission electron microscopy?",
+      "criteria": [
+        "The solution is: 45%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.04.657800, What Spearman's rank correlation coefficient (ρ) did PBCNet2.0 achieve in zero-shot binding affinity prediction on the FEP test set, and by what percentage does this represent an improvement over the original PBCNet model?",
+      "criteria": [
+        "The solution is: ρ = 0.67, representing an 18% improvement over PBCNet (ρ = 0.57)"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.14.643263, According to the manuscript, what percentage of familial ALS cases and what percentage of sporadic ALS cases are attributed to the C9orf72 hexanucleotide repeat expansion mutation?",
+      "criteria": [
+        "The solution is: 20–40% of familial ALS cases and 2–8% of sporadic cases"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.19.633773, What was the maximum number of consecutive stable backward double-tripod walking cycles observed in the mole cricket experiment, and what factor constrained this number?",
+      "criteria": [
+        "The solution is: Up to 9 cycles; the number was restricted by the tunnel length."
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.20.655107, How many significant Spearman correlations between bacterial family abundances and probe degradation rates were observed in sampling group 2?",
+      "criteria": [
+        "The solution is: 105"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.08.647854, How many distinct alphacoronavirus lineages were identified in phyllostomid bats from Belize, and which two human coronaviruses were the non-novel lineages phylogenetically similar to?",
+      "criteria": [
+        "The solution is: Three distinct α-CoV lineages; the non-novel lineages were phylogenetically similar to NL63 and 229E"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2022.12.06.519414, By what fold did compactors reduce the number of sequences compared to raw reads in the SPLASH+ analysis of 10,326 human single cells, and what were the raw read count and resulting compactor count?",
+      "criteria": [
+        "The solution is: 120 fold reduction, from 183,471,175 raw reads to 1,515,555 compactors"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.12.648530, What is the fold-increase in Gypsy/DIRS1 LTR retroelements in Melipona scutellaris compared to Melipona quadrifasciata?",
+      "criteria": [
+        "The solution is: 2.74-fold"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2023.08.24.554649, What was the maximum fold-enrichment of Piezo2 expression detected by qPCR in GFP+ cells sorted from the distal colon compared to GFP+ cells from other gut regions (duodenum, jejunum, or proximal colon) in Tph1-bacTRAP mice?",
+      "criteria": [
+        "The solution is: 360-fold"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.03.631162, How many total target genes were predicted for the active components of Astragali Radix-Curcumae Rhizoma (ARCR) using the Swiss Target Prediction database?",
+      "criteria": [
+        "The solution is: 442"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.02.21.581434, When comparing the cluster detection results of the standard GLM versus the SIR-adjusted GLM in the fMRI analysis, how many clusters did each model identify, and what was the volume (in mm³) of the largest cluster found by the standard GLM?",
+      "criteria": [
+        "The solution is: Standard GLM identified 9 clusters (largest: 4050 mm³); SIR-adjusted GLM identified 4 clusters"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.25.650444, What purity level of isolated Salmonella-containing phagosomes was confirmed by imaging cytometry in the PhagoCyt workflow?",
+      "criteria": [
+        "The solution is: >95%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.14.643323, What is the average GC3 codon bias percentage of the Saccharina latissima transcriptome as reported in the study?",
+      "criteria": [
+        "The solution is: 63.1%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.18.670832, In the bem1 cdc24 lip mutant, what was the time (in minutes) from SPB separation to anaphase onset for cells that displayed an unstable polarity pole but eventually formed a bud, as measured by live-cell imaging?",
+      "criteria": [
+        "The solution is: 82 minutes"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.18.670955, In the pilot screen of RNA-binding small molecules, how many compounds were excluded from the Deep-Phase analysis because they were identified as intrinsically fluorescent by plate reader-based quantification?",
+      "criteria": [
+        "The solution is: 3"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.12.01.626236, What is the radius of gyration of an isolated RNA molecule in the coarse-grained simulation, expressed in units of the bead diameter σ?",
+      "criteria": [
+        "The solution is: 9.5 ± 0.2"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.14.643327, What percentage of full-length Dsk2 backbone amide resonances were successfully assigned using triple resonance NMR experiments combined with domain deletion variants?",
+      "criteria": [
+        "The solution is: 84%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.02.653073, In the FRAP experiment comparing 7-day vehicle- vs. diazepam-treated neurons, synaptic gephyrin fluorescence recovery intensity was measured at 15 discrete post-bleach time points from 120 to 1800 seconds. What fraction of these 15 time points showed a statistically significant difference between treatment groups (p < 0.05)?",
+      "criteria": [
+        "The solution is: 0.6"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.09.22.677808, In the multiple sequence alignment of MADS-box SEP clade genes, what is the percent sequence identity (%) of the Finola genome protein CsFN_03G00004010 relative to the cs10 MADS reference sequence?",
+      "criteria": [
+        "The solution is: 66.89"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.10.19.619171, What is the strain identifier (lab ID) for the C. elegans strain expressing the mCherry-tagged centriole marker SAS-4 used in this study?",
+      "criteria": [
+        "The solution is: OD3701"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.21.671653, the dataset statistics summary for all datasets analyzed with the CORAL method, what is the Global AUC value reported for the HSC dataset?",
+      "criteria": [
+        "The solution is: 0.44785693"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.02.691581, In the strain heterozygosity analysis of high-coverage ancient S. mutans samples, what percentage of the SNP positions in the S. mutans genome reconstructed from individual VLI009 were classified as heterozygous?",
+      "criteria": [
+        "The solution is: 0.5%"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.11.27.690635, What dilution ratio was specified for the HRP-conjugated secondary antibody used in the Western blotting protocol for LAT1 expression analysis?",
+      "criteria": [
+        "The solution is: 1:5000"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.02.07.636498, In the PHLAME Bayesian inference model, what default integer value is used for the prior strength parameter m that controls the relative strength of the conjugate prior on the Gamma dispersion distribution?",
+      "criteria": [
+        "The solution is: 20"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.25.630657, In the hierarchical Bayesian continuous time dynamic model used to analyze microbial subcommunity rank dynamics, what is the observation noise variance assigned to the rank change variable (ΔR) as reported in the model specification?",
+      "criteria": [
+        "The solution is: 0.009"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.27.662017, What OD600 value was used for the mTagBFP2 nuclear marker construct during agroinfiltration in this study?",
+      "criteria": [
+        "The solution is: 0.05"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.02.690324, How many non-chimeric sequences (Nonchim) were retained for sample NING.TUR.POR.2 after the complete DADA2 amplicon sequencing processing pipeline?",
+      "criteria": [
+        "The solution is: 207040"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2023.08.24.554649, What physiological function is proposed for the EC cluster characterized by Olf558, Olf78, and Il12a as molecular identifiers located in the proximal colon?",
+      "criteria": [
+        "The solution is: Microbial metabolite-sensing"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.31.646286, In Norwegian Series 1 (1993-2003), what percentage of colorectal cancer patients had TNM stage III disease?",
+      "criteria": [
+        "The solution is: 26"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.04.657784, the ARRIVE 2.0 guidelines checklist submitted with this study, at which page and line numbers is the data availability statement reported in the manuscript?",
+      "criteria": [
+        "The solution is: Pg 15; lines 327-329"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.28.646047, How many protein atoms are included in the refined KpOptS-apo crystal structure?",
+      "criteria": [
+        "The solution is: 3702"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.10.648234, Which three climate models were selected for the pessimistic (SSP5-8.5) scenario in the species distribution modeling analysis for the Western Ghats study, and in what ranked order?",
+      "criteria": [
+        "The solution is: UKESM1.0.LL, ACCESS.CM2, HadGEM3.GC31.LL"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.09.648054, What is the total number of nucleotide positions covered in the sequencing comparison between the template plasmid and the clonal gRNA array sequence used for validation?",
+      "criteria": [
+        "The solution is: 6522"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.14.670415, What is the name of the device file used for all On-Bead ChIP-seq Bravo Option A protocols?",
+      "criteria": [
+        "The solution is: Bravo_round_magnet_RedInsert.dev"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.11.693649, What is the missing data percentage (%) for *Garamaudo bauciensis* in the phylogenetic character matrix used in this study?",
+      "criteria": [
+        "The solution is: 83.72"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.09.30.679584, What minimum number of LMO (Lipid Modified Oligonucleotide) counts per cell was required for a cell to be included in the multiplexed single-cell RNA-seq analysis?",
+      "criteria": [
+        "The solution is: 100"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.09.12.612763, What is the nucleotide sequence (5' to 3') of primer prAH2152 used in the construction of plasmids in this study?",
+      "criteria": [
+        "The solution is: GTAATGACCTCAGAACTCCATCT"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.21.649748, In the single-cell RNA sequencing analysis of brain organoids comparing a patient with atypical depression and psychotic symptoms to a healthy control, what is the fold change (fc) value of the top-ranked downregulated differentially expressed gene when the top 20 downregulated genes are sorted by fold change magnitude?",
+      "criteria": [
+        "The solution is: -9.73"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.23.634377, What percentage of total variance in community metatranscriptomes is explained by the first principal component (PC1) in the PCA analysis of depth-stratified samples from the October 2019 Sargasso Sea sampling campaign?",
+      "criteria": [
+        "The solution is: 54.67"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.07.24.666670, How many diakinesis oocytes (n) were scored for chromosome morphology defects in the untreated DDM6 condition?",
+      "criteria": [
+        "The solution is: 40"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.06.08.597928, What is the primer bank ID for the Ednrb gene used in the RT-qPCR experiments in this study?",
+      "criteria": [
+        "The solution is: 6681269a1"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.13.642948, How many clustered MAGs recovered from rice straw samples were used in the phylogenetic analysis of lignocellulose-degrading CAZy enzyme families?",
+      "criteria": [
+        "The solution is: 125"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.09.12.612763, How many new phage isolates were added to complete the BASEL collection in the current study?",
+      "criteria": [
+        "The solution is: 37"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.02.691581, How many biallelic segregating core-genome SNPs present in all strains were used to compute the maximum-likelihood phylogeny of modern and ancient S. mutans strains (including 456 modern assemblies and 35 ancient genomes)?",
+      "criteria": [
+        "The solution is: 40,679"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.07.651711, What percentage of ASVs were shared between the gut microbiota of Silvestritermes euamignathus and Cornitermes cumulans workers?",
+      "criteria": [
+        "The solution is: 6.3%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.30.673268, When a tRNA covariance score cutoff of 50 was applied to filter the full set of predicted tRNA genes and tRNA-like elements in the mouse strain genomes, how many putative transcribed tRNA genes remained out of the original total?",
+      "criteria": [
+        "The solution is: 390 (reduced from 39052)"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.02.690324, In how many of the 37 Porites coral samples studied along the Ningaloo Reef was the thermotolerant Cladocopium taxon C116 detected?",
+      "criteria": [
+        "The solution is: 10"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.06.08.597928, What percentage of satellite glial cells (SGCs) expressed the Gja1 gene (encoding connexin 43) in the single-nucleus RNA sequencing dataset of adult and aged mouse DRG?",
+      "criteria": [
+        "The solution is: 20%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.09.631560, What percentage of the variance in the Nanostring gene expression data was explained by principal component 1 in the PCA that separated OPC and OL fractions?",
+      "criteria": [
+        "The solution is: 75.9%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.09.18.613419, In the CMK-1 phosphoproteomics study using a C. elegans peptide library, how many phosphosites were identified, and in how many proteins did they map?",
+      "criteria": [
+        "The solution is: 646 phosphosites in 478 proteins"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.11.693649, How many mosasauroid species were included in the ingroup of the phylogenetic analysis performed in the study of Garamaudo bauciensis?",
+      "criteria": [
+        "The solution is: 55"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.64898/2025.12.02.691581, What was the mean completeness (± standard deviation) of the 36 ancient S. mutans Metagenomic Assembled Genomes (MAGs) as reported by CheckM?",
+      "criteria": [
+        "The solution is: 94.15%±7.24"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.07.24.666670, What percentage of embryonic lethality was observed in DDM6 C. elegans worms treated with auxin to deplete the FAT-7 desaturase, and how does this compare to the ethanol control condition?",
+      "criteria": [
+        "The solution is: 30.2% embryonic lethality in auxin-treated worms compared to 4.4% in ethanol control animals"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.11.27.690635, How many gene sets were commonly upregulated across all five cell lines (SAS, U87-MG, PANC-1, A375, and HaCaT) after 24 hours of phenylalanine deprivation, based on RNA sequencing with significant two-fold changes in TPM values?",
+      "criteria": [
+        "The solution is: 44"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.10.648234, After filtering for species with at least five occurrence records located on separate raster cells, how many total occurrence records of frogs were retained for distribution modeling in the Western Ghats study?",
+      "criteria": [
+        "The solution is: 3226"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.14.670415, By how much does the PIXUL sonicator reduce the cost per plate compared to the Covaris E220 in the spa-ChIP-seq workflow?",
+      "criteria": [
+        "The solution is: 30-fold"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.08.631686, What percentage of DiffN_OTOF cells co-clustered with fetal cells in the integrated adult-fetal dataset analysis used to confirm immature neuronal identity?",
+      "criteria": [
+        "The solution is: 55.8%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2023.08.24.554649, What percentage reduction in fecal pellet output was observed in Piezo2-depleted mice compared to wild type animals in the 2-hour fecal pellet assay after intraluminal diphtheria toxin treatment?",
+      "criteria": [
+        "The solution is: 42%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.03.631162, What AUC value did the XGBoost-based indication prediction system achieve on the testing set for distinguishing ARCR cancer indications from non-indications?",
+      "criteria": [
+        "The solution is: 0.967"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.22.634160, What is the R² value of the metabolite frailty clock model (built using 63 informativity-based metabolite features, age and sex) evaluated in the discovery cohort of aging mice?",
+      "criteria": [
+        "The solution is: 0.96"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.09.631560, What were the Pearson correlation coefficient (r) and p-value for the statistically significant correlation between myelin area fraction (M2 coefficient) and oligodendrocyte (OL) density in the basolateral amygdala?",
+      "criteria": [
+        "The solution is: r = 0.68, p = 0.0009"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.10.30.621029, What is the range of bits per k-mer on disk that FMSI requires for membership queries across all benchmark datasets and k-mer sizes tested on regular k-mer sets (excluding rna-ilm)?",
+      "criteria": [
+        "The solution is: 2.2–3.9 bits per k-mer"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.28.646047, Out of 15 phage T4 escaper mutants isolated and genome-sequenced in the study of the Panoptes antiphage system, how many encoded mutations exclusively in the acb2 gene?",
+      "criteria": [
+        "The solution is: 14"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.21.671653, In the A549 in vitro lineage tracing experiment, how many barcoded cells were recovered and how many distinct clones did they span?",
+      "criteria": [
+        "The solution is: 8538 barcoded cells spanning 549 clones"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.23.634377, By what fold-amount were free T4-like cyanophages more abundant at the subsurface oxygen maximum (SOM) relative to the bulk mixed layer (BML)?",
+      "criteria": [
+        "The solution is: 5.54"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.07.30.667662, What was the contact transmission rate (percentage) of CMV from Capsella bursa-pastoris to Capsicum annuum in the contact transmission experiments?",
+      "criteria": [
+        "The solution is: 75%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.09.22.677808, What percentage sequence identity does the Cannabis sativa prenyltransferase gene F8388_001433 share with CsPT7?",
+      "criteria": [
+        "The solution is: 98.4%"
+      ],
+      "category": "main_text"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.25.650444, In the THP-1 monocyte differentiation experiments characterizing the macrophage model used for Salmonella infection, what statistical test followed by what multiple comparisons correction method was used to assess differences in surface marker expression between PMA-treated cells and untreated controls?",
+      "criteria": [
+        "The solution is: Two-way ANOVA test followed by Dunnett's multiple comparisons test"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.09.30.679481, What is the DNA sequence (5' to 3') of the sense primer used for cloning the IMP-1 cDNA from the ATG start codon for the yeast two-hybrid screen?",
+      "criteria": [
+        "The solution is: 5'-GAATTCATGCACAGCAACAATAATAG-3'"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2023.12.12.571362, In the pairwise comparisons of viral outcomes used to assess feature ranking of anthropogenic roosting, what is the Benjamini-Hochberg adjusted p-value for the contrast between virus host and zoonotic host outcomes?",
+      "criteria": [
+        "The solution is: 7.99e-06"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.10.658981, What is the expected PCR band size (in base pairs) for the Ctcf-floxed allele when genotyping with the P5 and P6 primer pair in the uterine CTCF conditional knockout mouse model?",
+      "criteria": [
+        "The solution is: 391"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.07.651711, How many ASVs are shared between the gut microbiota of Silvestritermes euamignathus and Cornitermes cumulans based on their overall ASV composition?",
+      "criteria": [
+        "The solution is: 42"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.03.631162, What is the betweenness centrality of CDK1 in the hub gene interaction network constructed from the ARCR (Astragali Radix-Curcumae Rhizoma) core gene set?",
+      "criteria": [
+        "The solution is: 0.030441"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.22.634160, What is the p-value for the association between 2-hydroxydecanoate and the frailty index at time point T4 in the longitudinal metabolomics study of aging mice?",
+      "criteria": [
+        "The solution is: 0.0079"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.09.631560, In the supplementary subject demographics table for the RNAScope density analysis cohort, what is the one-way ANOVA p-value reported for brain pH differences across the three groups (CTRL, DS-CA, and DS)?",
+      "criteria": [
+        "The solution is: 0.041"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.14.643323, What is the assembly coverage (reads per base) of the longest sRNA contig assembled from seaweed sample S27, as reported in the supplemental sRNA sequence data for this study?",
+      "criteria": [
+        "The solution is: 34.462295"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.01.08.631686, What is the manufacturer catalog reference number for the NANOG primary antibody used for immunostaining in this study?",
+      "criteria": [
+        "The solution is: MA1-017"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.05.651929, How many autosomal SNPs were retained after all quality control and processing steps applied to the OneK1K genotype data?",
+      "criteria": [
+        "The solution is: 526169"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.03.15.643437, What working dilution is specified for the anti-mouse CD326 (EPCAM)-BV785 antibody in the antibody table?",
+      "criteria": [
+        "The solution is: 1:1000"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.02.653073, What dilution was used for the Radixin antibody in the western blot experiments performed to validate the subcellular fractionation protocol?",
+      "criteria": [
+        "The solution is: 1/500"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.09.648054, What is the average assembly efficiency (percentage of full-length 10-gRNA arrays) across all three independent assemblies using the RAPID-DASH method, rounded to two decimal places?",
+      "criteria": [
+        "The solution is: 81.25"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.28.671991, What is the recorded latitude of the Maize bushy stunt (MBS) phytoplasma occurrence documented in Costa Rica?",
+      "criteria": [
+        "The solution is: 10.6634"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.10.19.683343, How many RNA-seq samples were identified as outliers using principal component analysis (based on ±3 standard deviations from the mean of the top two principal components) and subsequently excluded from the final transcriptomic analysis?",
+      "criteria": [
+        "The solution is: 11"
+      ],
+      "category": "supplementary_docx"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.05.19.654661, How many total guide RNAs were included in the CRISPR knockout library used for the in vivo sinonasal screen?",
+      "criteria": [
+        "The solution is: 835"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.30.673268, In the multiple sequence alignment of tRNA-Gly-CCC-3-1 across mouse strains shown in the supplementary data, which mouse strain has a 3-nucleotide deletion (gaps indicated by '---') in its tRNA sequence?",
+      "criteria": [
+        "The solution is: NOD_ShiLtJ"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2024.09.18.613419, What is the complete genotype of the C. elegans double mutant strain combining the genome-edited constitutively active CMK-1 T179D allele with the tax-6(jh107) loss-of-function allele?",
+      "criteria": [
+        "The solution is: cmk-1(syb1633) IV; tax-6(jh107) IV"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.09.30.679584, Among the four Custom-LibraryP7 reverse primers used for LMO barcode library amplification, which primer has the highest GC content, and what is its GC percentage rounded to 1 decimal place?",
+      "criteria": [
+        "The solution is: Custom-LibraryP7-R2, 55.2%"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.08.21.671653, According to the dataset statistics summary for all datasets analyzed with the CORAL method, what is the Global AUC value reported for the HSC dataset?",
+      "criteria": [
+        "The solution is: 0.44785693"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.07.30.667662, How many Trifolium repens plants tested positive for CMV infection by DAS-ELISA across both mechanical inoculation experiments combined?",
+      "criteria": [
+        "The solution is: 5"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.27.650697, How many genes are included in the AR activity (AR-A) gene signature used in this prostate cancer study, as listed in the supplementary gene signature information table?",
+      "criteria": [
+        "The solution is: 10"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.04.21.649748, Among all whole exome sequencing variants recorded in this study, which chromosome harbors the greatest number of variants, and how many variants does it contain?",
+      "criteria": [
+        "The solution is: chr1, 325"
+      ],
+      "category": "supplementary_pdf"
+    },
+    {
+      "input": "According to paper DOI: 10.1101/2025.06.04.657784, According to the ARRIVE 2.0 guidelines checklist submitted with this study, at which page and line numbers is the data availability statement reported in the manuscript?",
+      "criteria": [
+        "The solution is: Pg 15; lines 327-329"
+      ],
+      "category": "supplementary_pdf"
+    }
+  ]
+}
